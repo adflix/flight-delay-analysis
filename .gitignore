@@ -1,0 +1,17 @@
+# Daten & Bilder ignorieren
+data/*.csv
+visuals/*.png
+
+# Jupyter Notebooks
+**/.ipynb_checkpoints
+
+# Python Cache & virtuelle Umgebungen
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+
+# Mac OS
+.DS_Store
