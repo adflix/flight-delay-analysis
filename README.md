@@ -47,11 +47,3 @@ Der Fokus liegt auf **Zusammenhängen zwischen Abflugverspätung, Ankunftsversp�
 📊 **Visualisierung:**  
 ![Scatterplot Flugdauer/Verspätung](visuals/scatter_flugdauer_ankunft.png)
 
----
-
-## 📦 Installation & Nutzung
-Falls du die Analyse lokal nachvollziehen willst:
-
-```bash
-pip install pandas matplotlib seaborn jupyter
-jupyter notebook notebooks/flight_delay_analysis.ipynb
